@@ -2,3 +2,4 @@
 #### Mayuka Kono<sup>*</sup>, Yutaro Hirao, Monica Perusquía-Hernández, Naoya Isoyama, Hideaki Uchiyama, Nobuchika Sakata, Jun Takamatsu, and Kiyoshi Kiyokawa
 ## Citation
 ## License
+This dataset is licensed under a [Creative Commons Attribution-Share Alike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/)
