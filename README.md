@@ -23,10 +23,10 @@ The .png file contains a record of the digital oscilloscope screen during data c
 ||60kHz|[csv](\dataset\PET\60kHz\csv)|[png](\dataset\PET\60kHz\png)|
 ||70kHz|[csv](\dataset\PET\70kHz\csv)|[png](\dataset\PET\70kHz\png)|
 ||80kHz|[csv](\dataset\PET\80kHz\csv)|[png](\dataset\PET\80kHz\png)|
-|Natural rubber|50kHz|[csv](\dataset\Natural_rubber\50kHz\csv)|[png](\dataset\Natural_rubber\50kHz\png)|
-||60kHz|[csv](\dataset\Natural_rubber\60kHz\csv)|[png](\dataset\Natural_rubber\60kHz\png)|
-||70kHz|[csv](\dataset\Natural_rubber\70kHz\csv)|[png](\dataset\Natural_rubber\70kHz\png)|
-||80kHz|[csv](\dataset\Natural_rubber\80kHz\csv)|[png](\dataset\Natural_rubber\80kHz\png)|
+|Natural rubber|50kHz|[csv](\dataset\Natural%20rubber\50kHz\csv)|[png](\dataset\Natural%20rubber\50kHz\png)|
+||60kHz|[csv](\dataset\Natural%20rubber\60kHz\csv)|[png](\dataset\Natural%20rubber\60kHz\png)|
+||70kHz|[csv](\dataset\Natural%20rubber\70kHz\csv)|[png](\dataset\Natural%20rubber\70kHz\png)|
+||80kHz|[csv](\dataset\Natural%20rubber\80kHz\csv)|[png](\dataset\Natural%20rubber\80kHz\png)|
 |PE|50kHz|[csv](\dataset\PE\50kHz\csv)|[png](\dataset\PE\50kHz\png)|
 ||60kHz|[csv](\dataset\PE\60kHz\csv)|[png](\dataset\PE\60kHz\png)|
 ||70kHz|[csv](\dataset\PE\70kHz\csv)|[png](\dataset\PE\70kHz\png)|
