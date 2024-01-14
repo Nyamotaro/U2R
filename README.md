@@ -2,7 +2,7 @@
 #### Mayuka Kono<sup>*</sup>, Yutaro Hirao, Monica Perusquía-Hernández, Naoya Isoyama, Hideaki Uchiyama, Nobuchika Sakata, Jun Takamatsu, and Kiyoshi Kiyokawa
 ![A image of dataset](/img/dataset_overview.png)
 ## Dataset
-The dataset contains 10 trials each of transmitted and received waves from six different incident angles of ultrasonic waves of four different frequencies on nine different materials. All the data were sampled at a sampling rate of 625 kHz. The dataset includes .csv and .png files.
+The dataset contains 10 trials each of transmitted and received waves from six different incident angles (0, 2, 4, 6, 8, 10 degree(s)) of ultrasonic waves of four different frequencies (50, 60, 70, 80kHz) on nine different materials. All the data were sampled at a sampling rate of 625 kHz. The dataset includes .csv and .png files.
 The .csv file contains timestamps and values of the transmitted (CH2) and received (CH1) waves. The graph of the transmitted and received waveforms can be obtained using the data in the .csv file. Note: the information on the direct wave among the received waves is not completely included.
 The .png file contains a record of the digital oscilloscope screen during data collection.
 |Material|Frequency|.csv|.png|
