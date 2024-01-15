@@ -49,7 +49,15 @@ The dataset contains 10 trials each of transmitted and received waves from six d
 ## Citation
 If you would like to use our dataset or refer to our paper, please cite as follows.
 ```
-The BibTex will be updated after publishing our paper.
+@INPROCEEDINGS{kono2024,
+  author={Kono, Mayuka and Hirao, Yutaro and Perusquía-Hernández, Monica and Isoyama, Naoya and Uchiyama, Hideaki and Sakata, Nobuchika and Takamatsu, Jun and Kiyokawa, Kiyoshi},
+  booktitle={ICASSP 2024 - 2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)}, 
+  title={U2R: Underwater Ultrasonic Reflection Wave Dataset toward Pose-invariant Material Recognition}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={},
+  doi={}}
 ```
 ## License
 This dataset is licensed under a [Creative Commons Attribution-Share Alike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
