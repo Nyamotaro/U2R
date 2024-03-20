@@ -52,12 +52,12 @@ If you would like to use our dataset or refer to our paper, please cite as follo
 @INPROCEEDINGS{kono2024,
   author={Kono, Mayuka and Hirao, Yutaro and Perusquía-Hernández, Monica and Isoyama, Naoya and Uchiyama, Hideaki and Sakata, Nobuchika and Takamatsu, Jun and Kiyokawa, Kiyoshi},
   booktitle={ICASSP 2024 - 2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)}, 
-  title={U2R: Underwater Ultrasonic Reflection Wave Dataset toward Pose-invariant Material Recognition}, 
+  title={U2R: Underwater Ultrasonic Reflection Wave Dataset Toward Pose-Invariant Material Recognition}, 
   year={2024},
   volume={},
   number={},
-  pages={},
-  doi={}}
+  pages={646-650},
+  doi={10.1109/ICASSP48485.2024.10447761}}
 ```
 ## License
 This dataset is licensed under a [Creative Commons Attribution-Share Alike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
